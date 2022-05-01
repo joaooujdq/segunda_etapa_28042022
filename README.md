@@ -9,7 +9,7 @@
 
 :heavy_check_mark: Calculo da distância total percorrida;
 
-:heavy_check_mark: Bônus: Interface gráfica que reproduz visualmente a menor distância entre dois pontos;
+:star: BÔNUS: Interface gráfica que reproduz visualmente a menor distância entre dois pontos;
 
 # Interface que permite a visualização do menor caminho.
 
